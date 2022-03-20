@@ -76,3 +76,6 @@ The binary will be put into the `dist` directory within the script directory.
 ### Contributing
 
 If you would like to suggest changes feel free to fork this repo and create PR or submit an issue
+### 문제점
+지금 고화질 영상은 소리와 영상이 분리돼버림
+>> 아마 소리를 담당하는 라이브러리 문제로 
